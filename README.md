@@ -58,7 +58,7 @@ Features a sleek dark UI, multi-server upload fallback system (Catbox, Litterbox
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/YourUsername/IsisDownloader.git
+git clone https://github.com/Mkaf7h/IsisDownloader.git
 cd IsisDownloader
 ```
 
