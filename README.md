@@ -7,7 +7,7 @@
 
 
 
-#  IsisDownloader v3.2 Premium
+#  IsisDownloader
 
 **Advanced File Upload & Automated PowerShell Downloader Command Generator**
 
