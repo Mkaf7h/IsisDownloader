@@ -5,8 +5,7 @@
 
 <br><br>
 
-<!-- Second Image (Below top header) -->
-<img src="https://i.imgur.com/WszJQtO.png" alt="IsisDownloader Banner" width="100%">
+
 
 # 🚀 IsisDownloader v3.2 Premium
 
@@ -34,12 +33,15 @@ Features a sleek dark UI, multi-server upload fallback system (Catbox, Litterbox
 <div align="center">
 
 ### 🖥️ Main Interface
-<img src="https://i.imgur.com/Ar2ao1O.png" alt="Main Interface" width="85%" style="border-radius: 10px; margin-bottom: 20px;">
+<img src="https://i.imgur.com/WszJQtO.png" alt="Main Interface" width="85%" style="border-radius: 10px; margin-bottom: 20px;">
 
 <br><br>
 
 ### 📜 Command History & Settings
-<img src="https://i.imgur.com/qVN52Nn.png" alt="History & Settings" width="85%" style="border-radius: 10px;">
+<img src="https://i.imgur.com/Ar2ao1O.png" alt="History & Settings" width="85%" style="border-radius: 10px;">
+
+<!-- Second Image (Below top header) -->
+<img src="https://i.imgur.com/qVN52Nn.png" alt="IsisDownloader Banner" width="100%">
 
 </div>
 
