@@ -54,7 +54,7 @@ Features a sleek dark UI, multi-server upload fallback system (Catbox, Litterbox
 
 ---
 
-## 🛠️ Building & Running
+##  Building & Running
 
 ### 1️⃣ Clone Repository
 ```bash
