@@ -7,7 +7,7 @@
 
 
 
-# 🚀 IsisDownloader v3.2 Premium
+#  IsisDownloader v3.2 Premium
 
 **Advanced File Upload & Automated PowerShell Downloader Command Generator**
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **IsisDownloader** is an advanced C# desktop application built on **.NET 8.0** that provides a seamless, fast solution for uploading files and instantly generating automated **PowerShell** execution commands (`powershell "irm <URL> | iex"`).
 
@@ -28,16 +28,16 @@ Features a sleek dark UI, multi-server upload fallback system (Catbox, Litterbox
 
 ---
 
-## 📸 Screenshots Gallery
+##  Screenshots Gallery
 
 <div align="center">
 
-### 🖥️ Main Interface
+###  Main Interface
 <img src="https://i.imgur.com/WszJQtO.png" alt="Main Interface" width="85%" style="border-radius: 10px; margin-bottom: 20px;">
 
 <br><br>
 
-### 📜 Command History & Settings
+###  Command History & Settings
 <img src="https://i.imgur.com/Ar2ao1O.png" alt="History & Settings" width="85%" style="border-radius: 10px;">
 
 <!-- Second Image (Below top header) -->
@@ -47,7 +47,7 @@ Features a sleek dark UI, multi-server upload fallback system (Catbox, Litterbox
 
 ---
 
-## 💻 System Requirements
+##  System Requirements
 
 - **Operating System:** Windows 10 / 11 (64-bit)
 - **Framework:** [.NET 8.0 Windows Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
@@ -82,6 +82,6 @@ dotnet build BomberCSharp/IsisDownloader.csproj -c Release
 
 <div align="center">
 
-Made with ❤️ by **IsisDownloader Team**
+Made with ❤️ by **NukersecGroup**
 
 </div>
